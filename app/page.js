@@ -12,7 +12,7 @@ import { useEffect, useState } from "react";
           <h1 className={styles.title}>Online Examination System</h1>
           <div className={styles.buttons}>
             <Link href="/adminregistration" className={styles.button}>
-              Administrator Registration
+              Administrator 
             </Link>
             <Link href="/studentregistration" className={styles.button}>
               Student Registration
